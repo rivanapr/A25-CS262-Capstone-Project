@@ -69,6 +69,13 @@ pip install -r requirements.txt
 - Recency → Days_Since_Last_Purchase
 - Frequency → Total_Transactions
 - Monetary → Total_Spend
+✦ Tambahan:
+- Product diversity
+- Average days between purchase
+- Favorite shopping hour/day
+- Country features
+- Cancellation rate
+- Seasonality & trend
 
 ## 4. Outlier Detection
 Menggunakan:
