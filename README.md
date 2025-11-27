@@ -65,11 +65,11 @@ pip install -r requirements.txt
 - Standardisasi Description
 
 ## 3. Feature Engineering
-✦ RFM:
+## ✦ RFM:
 - Recency → Days_Since_Last_Purchase
 - Frequency → Total_Transactions
 - Monetary → Total_Spend
-✦ Tambahan:
+## ✦ Tambahan:
 - Product diversity
 - Average days between purchase
 - Favorite shopping hour/day
